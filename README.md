@@ -19,7 +19,7 @@ EasyDiscordPresence it's tool that allows you to have custom discord game status
 2. Extract it into a new folder
 3. Create new app from the Discord developer page or click [here](https://discordapp.com/developers/applications/me)
 
-![gif1](http://media.odar.xyz/83f89M07Y1.gif)
+!gif1](http://media.odar.xyz/83f89M07Y1.gif)
 4. Get your app **id** and save it into settings.json
 
 ![gif2](http://media.odar.xyz/K9g954q6s3.gif)
